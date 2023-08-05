@@ -3,6 +3,8 @@ _Efter att ha kollat överallt efter vart man skapar en Markdown fil så insåg 
 
 _Edit: Jag såg också nu att om jag inte var så ivrig så hade jag sett att ni skrev det på er presenation. Intressant._
 
+Extra tillägg: Jag påbörjade på Znote, fett bra app, men jag kunde inte lägga till emojis :(
+
 ## Ämne programmering:
 Jag är en 24-årig tjej som aldrig har programmerat tidigare. Mitt intresse för programmering väcktes när jag i våras studerade till kommunikatör i Uppsala. När jag kikade på arbetsannonser för kommunikatör, så krävdes kunskap i bland annat programmering och grammatik. Min bristfälliga grammatik fick mig att tvivla på att jag skulle kunna bli kommunikatör, men programmeringsbiten lockade mig **mycket**! Trots att jag inte hade någon erfarenhet inom området, kände jag att det var dags för en förändring i mitt liv.
 
